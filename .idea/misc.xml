@@ -5,6 +5,8 @@
       <map>
         <entry key="app/src/main/res/layout/activity_add_edit_one.xml" value="0.24547101449275363" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3183083847879433" />
+        <entry key="app/src/main/res/layout/one_line_president.xml" value="0.24547101449275363" />
+        <entry key="app/src/main/res/xml/network_security_config.xml" value="0.1" />
       </map>
     </option>
   </component>
